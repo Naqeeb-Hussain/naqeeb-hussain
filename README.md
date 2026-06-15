@@ -1,8 +1,8 @@
 # Hi, I'm Naqeeb 👋
 
-Junior Full Stack Developer based in Berlin 🇩🇪
+Full Stack Developer based in Berlin 🇩🇪
 
-Recently completed a Full Stack Web Development Bootcamp focused on modern JavaScript development.
+Recently completed a Full Stack Web Development Bootcamp and building modern web applications using React, JavaScript, Node.js and MongoDB.
 
 ## Tech Stack
 
