@@ -20,6 +20,9 @@ Recently completed a Full Stack Web Development Bootcamp and building modern web
 ### 🍽️ One Dish One City
 Full-stack web application showcasing cities and their signature dishes.
 
+<img width="1536" height="1024" alt="One-Dish-One-City" src="https://github.com/user-attachments/assets/622d94a9-aee5-4566-af2f-85e42ded2e40" />
+
+
 **Tech:** React, Node.js, Express, MongoDB
 
 ### ☕ Coffee Junkie
